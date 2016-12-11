@@ -1,4 +1,5 @@
-# twitter_auth_firebase
+# Twitter Authentication using Firebase
+[![Build Status](https://travis-ci.org/reverseBitsTech/twitter_auth_firebase.svg?branch=master)](https://travis-ci.org/reverseBitsTech/twitter_auth_firebase)
 Demo of twitter authentication with Firebase
 
 [Here is Tutorial and this demo is made for it's reference](https://goo.gl/10fKKP "Tutorial on Medium")
